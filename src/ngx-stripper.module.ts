@@ -1,6 +1,6 @@
 import {CommonModule} from '@angular/common';
 import {NgModule} from '@angular/core';
-import {NgxStripperPipe} from './directives/ngx-stripper.pipe';
+import {NgxStripperPipe} from './pipes/ngx-stripper.pipe';
 
 @NgModule({
     declarations: [

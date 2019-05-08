@@ -5,7 +5,7 @@ Ngx stripper, an Angular pipe to clean up string from any languages construct
 
 ### Demo
 
-UNAVAILABLE
+https://next.plnkr.co/plunk/DGbwiDGvvMz8LBcg
 
 ### Installation
 
