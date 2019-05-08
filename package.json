@@ -1,6 +1,6 @@
 {
   "name": "ngx-stripper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ngx stripper, an Angular pipe to clean up string from any languages construct",
   "scripts": {
     "transpile": "ngc",
