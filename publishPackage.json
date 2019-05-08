@@ -1,0 +1,23 @@
+{
+  "name": "ngx-stripper",
+  "version": "0.0.1",
+  "description": "Ngx stripper, an Angular pipe to clean up string from any languages construct",
+  "keywords": [
+    "angular html stripper",
+    "html stripper",
+    "stripper",
+    "angular",
+    "angular 2",
+    "angular 4",
+    "angular 5",
+    "angular 6",
+    "angular 7",
+    "ngx-stripper",
+    "string stripper"
+  ],
+  "author": "Lorenzo Iovino",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/lokenxo/ngx-stripper.git"
+  }
+}
