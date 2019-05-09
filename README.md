@@ -20,10 +20,10 @@ Import it in your Angular2 project like a module
 
 1) Declare it in your module
     ```sh
-    import {Ng2StripperModule} from "ngx-stripper";
+    import {NgxStripperModule} from "ngx-stripper";
     @NgModule({
       imports: [
-        Ng2StripperModule
+        NgxStripperModule
       ]
     })
 
@@ -52,7 +52,7 @@ Simply, clone the repository!
 License
 ----
 
-ISC
+MIT
 
 
 **Lorenzo I.**
